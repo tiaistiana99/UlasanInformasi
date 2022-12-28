@@ -1,0 +1,15 @@
+<resources>
+    <!-- App details -->
+    <string name="app_name">Seputar</string>
+    <string name="countries">Informasi</string>
+    <string name="news_by_countries">Berita</string>
+    <string name="news">News</string>
+
+    <!-- Content Description -->
+    <string name="news_image_desc">News Image</string>
+    <string name="news_image">news image</string>
+    <string name="str_test_date">22/02/2017</string>
+
+    <!-- Empty -->
+    <string name="no_news">No News</string>
+</resources>
